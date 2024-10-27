@@ -1,0 +1,72 @@
+const cientificos = [
+  {
+    id: 1,
+    name: "Isaac Newton",
+    nationality: "Inglaterra",
+    image: "https://i.imgur.com/PlxS7eP.jpeg",
+    description: "Físico, matemático y astrónomo inglés, conocido por su ley de gravitación universal y sus tres leyes del movimiento."
+  },
+  {
+    id: 2,
+    name: "Charles Darwin",
+    nationality: "Inglaterra",
+    image: "https://i.imgur.com/uGnlXLb.jpeg",
+    description: "Naturalista inglés famoso por su teoría de la evolución por selección natural, presentada en su obra 'El origen de las especies'."
+  },
+  {
+    id: 3,
+    name: "Albert Einstein",
+    nationality: "Alemania/Estados Unidos",
+    image: "https://i.imgur.com/rL2TJ92.jpeg",
+    description: "Físico alemán, posteriormente nacionalizado estadounidense, conocido por su teoría de la relatividad y su ecuación E=mc2E=mc2."
+  },
+  {
+    id: 4,
+    name: "Marie Curie",
+    nationality: "Polonia/Francia",
+    image: "https://i.imgur.com/xJ7N8xb.jpeg",
+    description: "Física y química polaca-francesa, pionera en el estudio de la radiactividad y la primera persona en recibir dos premios Nobel en diferentes campos científicos (Física y Química)."
+  },
+  {
+    id: 5,
+    name: "Stephen Hawking",
+    nationality: "Inglaterra",
+    image: "https://i.imgur.com/B4jKLRx.jpeg",
+    description: "Físico teórico y cosmólogo inglés conocido por sus contribuciones a la teoría de los agujeros negros y la cosmología."
+  },
+  {
+    id: 6,
+    name: "Galileo Galilei",
+    nationality: "Italia",
+    image: "https://i.imgur.com/iPgghN5.jpeg",
+    description: "Astrónomo, físico e ingeniero italiano, considerado el 'padre de la astronomía observacional' y el 'padre de la física moderna'."
+  },
+  {
+    id: 7,
+    name: "Nikola Tesla",
+    nationality: "Serbia/Estados Unidos",
+    image: "https://i.imgur.com/S3b0qFS.jpeg",
+    description: "Inventor, ingeniero eléctrico y físico serbio-estadounidense, conocido por sus numerosas contribuciones al desarrollo de la corriente alterna y otros dispositivos eléctricos."
+  },
+  {
+    id: 8,
+    name: "Rosalind Franklin",
+    nationality: "Inglaterra",
+    image: "https://i.imgur.com/9AJvfZX.jpeg",
+    description: "Biofísica inglesa conocida por su trabajo en la estructura del ADN, incluida la obtención de imágenes de difracción de rayos X crucial para el descubrimiento de la estructura de doble hélice del ADN."
+  },
+  {
+    id: 9,
+    name: "Richard Feynman",
+    nationality: "Estados Unidos",
+    image: "https://i.imgur.com/AIpVTYQ.jpeg",
+    description: "Físico teórico estadounidense, conocido por su trabajo en la teoría cuántica y la electrodinámica cuántica, así como por su enfoque único y su habilidad para comunicar la ciencia."
+  },
+  {
+    id: 10,
+    name: "Jane Goodall",
+    nationality: "Inglaterra",
+    image: "https://i.imgur.com/Udqj0Nl.jpeg",
+    description: "Primatóloga, etóloga y antropóloga inglesa, conocida por su extenso estudio sobre el comportamiento de los chimpancés en el Parque Nacional Gombe Stream de Tanzania."
+  }
+];
